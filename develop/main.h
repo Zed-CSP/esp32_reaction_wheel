@@ -25,8 +25,8 @@
 
 // accessories
 
-#define LED          2
-#define BUTTON       0
+//#define LED          2
+//#define BUTTON       0
 
 // serial
 
