@@ -23,3 +23,22 @@
 #define ENC_z_A      14
 #define ENC_z_B      12
 
+// accessories
+
+#define LED          2
+#define BUTTON       0
+
+// serial
+
+#define SERIAL_BAUD  115200
+
+// PID
+
+#define PID_KP       0.1
+#define PID_KI       0.1
+#define PID_KD       0.1
+
+// motor
+
+#define MOTOR_MAX    255
+#define MOTOR_MIN    0
