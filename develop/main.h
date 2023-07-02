@@ -31,6 +31,8 @@
 #define MPU6050       0x68
 #define ACCEL_CONFIG  0x1C
 #define GYRO_CONFIG   0x1B
+#define PWR_MGMT_1    0x6B
+#define PWR_MGMT_2    0x6C
 
 // accessories
 
