@@ -23,6 +23,10 @@
 #define ENC_z_A      14
 #define ENC_z_B      12
 
+//timer
+#define TIMER_res        8
+#define TIMER_freq       10000
+
 // accessories
 
 //#define LED          2
