@@ -27,6 +27,11 @@
 #define TIMER_res        8
 #define TIMER_freq       10000
 
+//addressing
+#define MPU6050       0x68
+#define ACCEL_CONFIG  0x1C
+#define GYRO_CONFIG   0x1B
+
 // accessories
 
 //#define LED          2
