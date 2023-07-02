@@ -14,14 +14,14 @@
 
 // encoder
 
-#define ENC_x_A      34
-#define ENC_x_B      35
+// #define ENC_x_A      34
+// #define ENC_x_B      35
 
-#define ENC_y_A      26
-#define ENC_y_B      27
+// #define ENC_y_A      26
+// #define ENC_y_B      27
 
-#define ENC_z_A      14
-#define ENC_z_B      12
+// #define ENC_z_A      14
+// #define ENC_z_B      12
 
 //timer
 #define TIMER_res        8
@@ -38,6 +38,8 @@
 
 //#define LED          2
 //#define BUTTON       0
+#define PIEZO         27
+#define BATT_VOLTAGE  34
 
 // serial
 
