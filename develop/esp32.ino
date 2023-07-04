@@ -1,6 +1,6 @@
 #include "main.h"
 #include EEPROM.h
-#include " BluetoothSerial.h"
+#include "BluetoothSerial.h"
 
 // Bluetooth
 BluetoothSerial SerialBT; // Bluetooth Serial object
