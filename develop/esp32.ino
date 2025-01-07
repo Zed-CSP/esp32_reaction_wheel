@@ -30,5 +30,3 @@ BluetoothSerial SerialBT; // Bluetooth Serial object
 // Loop
 
 // Interrupts
-
-// Bluetooth
